@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-13)
+## Unreleased (2025-12-30)
 
 <section class="features">
 
@@ -45,6 +45,8 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`6d64a34`](https://github.com/stdlib-js/stdlib/commit/6d64a344071e5e7afd0a8500cc27bee493d6e439) - **docs:** replace manual `for` loop in examples [(#9439)](https://github.com/stdlib-js/stdlib/pull/9439) _(by Harsh Yadav, Athan Reines)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`2a0ea7f`](https://github.com/stdlib-js/stdlib/commit/2a0ea7feb22806685fef9eac8a32d7012dab7adc) - **fix:** use correct package names in package.json _(by Philipp Burckhardt)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`576bd4b`](https://github.com/stdlib-js/stdlib/commit/576bd4b6bb45c0580dbb386d6b347cbb45145806) - **bench:** revert uniform implementation and remove unnecessary loop [(#5314)](https://github.com/stdlib-js/stdlib/pull/5314) _(by Abhishek Jain, Philipp Burckhardt)_
@@ -61,10 +63,11 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 6 people contributed to this release. Thank you to the following contributors:
+A total of 7 people contributed to this release. Thank you to the following contributors:
 
 -   Abhishek Jain
 -   Athan Reines
+-   Harsh Yadav
 -   Jaysukh Makvana
 -   Karan Anand
 -   Philipp Burckhardt
